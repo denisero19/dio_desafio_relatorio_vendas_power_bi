@@ -60,4 +60,4 @@ Este desafio foi essencial para praticar:
 
 ---
 
-👨‍💻 Desenvolvido por *[Denise Rodrigues]* durante a Formação Power BI Analyst da [DIO](https://www.dio.me/).  
+👨‍💻 Desenvolvido por *Denise Rodrigues* durante a Formação Power BI Analyst da [DIO](https://www.dio.me/).  
