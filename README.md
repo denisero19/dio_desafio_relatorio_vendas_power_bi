@@ -49,8 +49,7 @@ Foram colocados botões responsáveis por:
 ## 🔗 Links Importantes  
 - 📂 [Repositório de dados base (Sample Financials)](https://github.com/julianazanelatto/power_bi_analyst)  
 - 🌐 [Publicação no Power BI Service](https://app.powerbi.com/groups/me/reports/ac62e3b1-1227-4a76-9ba7-3243dedac1a2/32706c890d8798960781?experience=power-bi) 
-
-- 🌐 [Repositório do desafio]() 
+- 🌐 [Repositório do desafio](https://github.com/denisero19/dio_desafio_relatorio_vendas_power_bi) 
 
 
 ## 📚 Aprendizados  
